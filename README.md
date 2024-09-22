@@ -1,4 +1,4 @@
-<h1 align='center'> Fashion Classification </h1>
+<h1 align='center'> ClotheAI </h1>
 
 <h4 align='center'> The primary objective of this project is to develop a robust and accurate fashion classification model capable of identifying different types of clothing items from images. This model will utilize a sequential neural network architecture, leveraging the power of TensorFlow and Keras frameworks. </h4>
 
